@@ -23,4 +23,4 @@ Java Cloud Service の環境構築と利用方法に関するハンズオン
 
 #### Java Cloud Service へのアプリケーションデプロイ
 
-- [データ・ソースの定義とアプリケーションのデプロイ](documents/deploy-application/READEME.md)
+- [データ・ソースの定義とアプリケーションのデプロイ](documents/deploy-application/README.md)
