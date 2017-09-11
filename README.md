@@ -22,3 +22,5 @@ Java Cloud Service の環境構築と利用方法に関するハンズオン
 - [データベース・スキーマの作成](documents/create-db-schema/README.md)
 
 #### Java Cloud Service へのアプリケーションデプロイ
+
+- [データ・ソースの定義とアプリケーションのデプロイ](documents/deploy-application/README.md)
